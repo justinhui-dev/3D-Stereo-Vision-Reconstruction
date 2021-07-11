@@ -1,1 +1,1 @@
-# 3D-Stero-Vision-Reconstruction
+# 3D-Stereo-Vision-Reconstruction
